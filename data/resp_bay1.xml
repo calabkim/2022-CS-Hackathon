@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NextBuses xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <NextBus>
+        <RouteNo>145</RouteNo>
+        <RouteName>SFU/PRODUCTION STN</RouteName>
+        <Direction>SOUTH</Direction>
+        <RouteMap>
+            <Href>https://nb.translink.ca/geodata/145.kmz</Href>
+        </RouteMap>
+        <Schedules>
+            <Schedule>
+                <Pattern>SB1</Pattern>
+                <Destination>PRODUCTION STN</Destination>
+                <ExpectedLeaveTime>12:52pm</ExpectedLeaveTime>
+                <ExpectedCountdown>12</ExpectedCountdown>
+                <ScheduleStatus />
+                <CancelledTrip>false</CancelledTrip>
+                <CancelledStop>false</CancelledStop>
+                <AddedTrip>false</AddedTrip>
+                <AddedStop>false</AddedStop>
+                <LastUpdate>11:52:00 am</LastUpdate>
+            </Schedule>
+            <Schedule>
+                <Pattern>SB1</Pattern>
+                <Destination>PRODUCTION STN</Destination>
+                <ExpectedLeaveTime>1:07pm</ExpectedLeaveTime>
+                <ExpectedCountdown>27</ExpectedCountdown>
+                <ScheduleStatus>*</ScheduleStatus>
+                <CancelledTrip>false</CancelledTrip>
+                <CancelledStop>false</CancelledStop>
+                <AddedTrip>false</AddedTrip>
+                <AddedStop>false</AddedStop>
+                <LastUpdate>12:07:00 pm</LastUpdate>
+            </Schedule>
+            <Schedule>
+                <Pattern>SB1</Pattern>
+                <Destination>PRODUCTION STN</Destination>
+                <ExpectedLeaveTime>1:22pm</ExpectedLeaveTime>
+                <ExpectedCountdown>42</ExpectedCountdown>
+                <ScheduleStatus />
+                <CancelledTrip>false</CancelledTrip>
+                <CancelledStop>false</CancelledStop>
+                <AddedTrip>false</AddedTrip>
+                <AddedStop>false</AddedStop>
+                <LastUpdate>12:22:09 pm</LastUpdate>
+            </Schedule>
+            <Schedule>
+                <Pattern>SB1</Pattern>
+                <Destination>PRODUCTION STN</Destination>
+                <ExpectedLeaveTime>1:37pm</ExpectedLeaveTime>
+                <ExpectedCountdown>57</ExpectedCountdown>
+                <ScheduleStatus />
+                <CancelledTrip>false</CancelledTrip>
+                <CancelledStop>false</CancelledStop>
+                <AddedTrip>false</AddedTrip>
+                <AddedStop>false</AddedStop>
+                <LastUpdate>12:37:20 pm</LastUpdate>
+            </Schedule>
+            <Schedule>
+                <Pattern>SB1</Pattern>
+                <Destination>PRODUCTION STN</Destination>
+                <ExpectedLeaveTime>1:52pm</ExpectedLeaveTime>
+                <ExpectedCountdown>72</ExpectedCountdown>
+                <ScheduleStatus>*</ScheduleStatus>
+                <CancelledTrip>false</CancelledTrip>
+                <CancelledStop>false</CancelledStop>
+                <AddedTrip>false</AddedTrip>
+                <AddedStop>false</AddedStop>
+                <LastUpdate>02:08:03 pm</LastUpdate>
+            </Schedule>
+            <Schedule>
+                <Pattern>SB1</Pattern>
+                <Destination>PRODUCTION STN</Destination>
+                <ExpectedLeaveTime>2:07pm</ExpectedLeaveTime>
+                <ExpectedCountdown>87</ExpectedCountdown>
+                <ScheduleStatus>*</ScheduleStatus>
+                <CancelledTrip>false</CancelledTrip>
+                <CancelledStop>false</CancelledStop>
+                <AddedTrip>false</AddedTrip>
+                <AddedStop>false</AddedStop>
+                <LastUpdate>02:08:03 pm</LastUpdate>
+            </Schedule>
+        </Schedules>
+    </NextBus>
+</NextBuses>

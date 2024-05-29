@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NextBuses xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <NextBus>
+    <RouteNo>144</RouteNo>
+    <RouteName>SFU/METROTOWN STN</RouteName>
+    <Direction>NORTH</Direction>
+    <RouteMap>
+      <Href>https://nb.translink.ca/geodata/144.kmz</Href>
+    </RouteMap>
+    <Schedules>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>11:48am</ExpectedLeaveTime>
+        <ExpectedCountdown>11</ExpectedCountdown>
+        <ScheduleStatus>-</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:36:51 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>11:57am</ExpectedLeaveTime>
+        <ExpectedCountdown>20</ExpectedCountdown>
+        <ScheduleStatus>-</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:36:10 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>12:16pm</ExpectedLeaveTime>
+        <ExpectedCountdown>39</ExpectedCountdown>
+        <ScheduleStatus>-</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:36:29 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>12:52pm</ExpectedLeaveTime>
+        <ExpectedCountdown>75</ExpectedCountdown>
+        <ScheduleStatus>-</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:03:16 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>1:17pm</ExpectedLeaveTime>
+        <ExpectedCountdown>100</ExpectedCountdown>
+        <ScheduleStatus />
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:33:17 am</LastUpdate>
+      </Schedule>
+    </Schedules>
+  </NextBus>
+  <NextBus>
+    <RouteNo>145</RouteNo>
+    <RouteName>SFU/PRODUCTION STN</RouteName>
+    <Direction>NORTH</Direction>
+    <RouteMap>
+      <Href>https://nb.translink.ca/geodata/145.kmz</Href>
+    </RouteMap>
+    <Schedules>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>11:46am</ExpectedLeaveTime>
+        <ExpectedCountdown>9</ExpectedCountdown>
+        <ScheduleStatus />
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:35:50 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>12:05pm</ExpectedLeaveTime>
+        <ExpectedCountdown>28</ExpectedCountdown>
+        <ScheduleStatus>*</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>10:53:02 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>12:22pm</ExpectedLeaveTime>
+        <ExpectedCountdown>45</ExpectedCountdown>
+        <ScheduleStatus />
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:10:33 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>12:37pm</ExpectedLeaveTime>
+        <ExpectedCountdown>60</ExpectedCountdown>
+        <ScheduleStatus />
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:25:33 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>12:52pm</ExpectedLeaveTime>
+        <ExpectedCountdown>75</ExpectedCountdown>
+        <ScheduleStatus>*</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>01:08:06 pm</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>NB1</Pattern>
+        <Destination>SFU</Destination>
+        <ExpectedLeaveTime>1:07pm</ExpectedLeaveTime>
+        <ExpectedCountdown>90</ExpectedCountdown>
+        <ScheduleStatus>*</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>01:08:06 pm</LastUpdate>
+      </Schedule>
+    </Schedules>
+  </NextBus>
+  <NextBus>
+    <RouteNo>R5</RouteNo>
+    <RouteName>HASTINGS STREET</RouteName>
+    <Direction>EAST</Direction>
+    <RouteMap>
+      <Href>https://nb.translink.ca/geodata/R5.kmz</Href>
+    </RouteMap>
+    <Schedules>
+      <Schedule>
+        <Pattern>E1</Pattern>
+        <Destination>HASTINGS ST TO SFU</Destination>
+        <ExpectedLeaveTime>11:39am</ExpectedLeaveTime>
+        <ExpectedCountdown>2</ExpectedCountdown>
+        <ScheduleStatus>+</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:36:28 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>E1</Pattern>
+        <Destination>HASTINGS ST TO SFU</Destination>
+        <ExpectedLeaveTime>11:52am</ExpectedLeaveTime>
+        <ExpectedCountdown>15</ExpectedCountdown>
+        <ScheduleStatus>+</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:36:09 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>E1</Pattern>
+        <Destination>HASTINGS ST TO SFU</Destination>
+        <ExpectedLeaveTime>11:59am</ExpectedLeaveTime>
+        <ExpectedCountdown>22</ExpectedCountdown>
+        <ScheduleStatus>+</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:36:28 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>E1</Pattern>
+        <Destination>HASTINGS ST TO SFU</Destination>
+        <ExpectedLeaveTime>12:14pm</ExpectedLeaveTime>
+        <ExpectedCountdown>37</ExpectedCountdown>
+        <ScheduleStatus>+</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>11:35:49 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>E1</Pattern>
+        <Destination>HASTINGS ST TO SFU</Destination>
+        <ExpectedLeaveTime>12:28pm</ExpectedLeaveTime>
+        <ExpectedCountdown>51</ExpectedCountdown>
+        <ScheduleStatus />
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>10:40:05 am</LastUpdate>
+      </Schedule>
+      <Schedule>
+        <Pattern>E1</Pattern>
+        <Destination>HASTINGS ST TO SFU</Destination>
+        <ExpectedLeaveTime>12:38pm</ExpectedLeaveTime>
+        <ExpectedCountdown>61</ExpectedCountdown>
+        <ScheduleStatus>*</ScheduleStatus>
+        <CancelledTrip>false</CancelledTrip>
+        <CancelledStop>false</CancelledStop>
+        <AddedTrip>false</AddedTrip>
+        <AddedStop>false</AddedStop>
+        <LastUpdate>10:50:12 am</LastUpdate>
+      </Schedule>
+    </Schedules>
+  </NextBus>
+</NextBuses>
